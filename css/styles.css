@@ -822,6 +822,9 @@ body {
     column-gap: 40px;
     justify-content: center;
   }
+  .footer {
+    padding: 40px 15px;
+  }
   .footer-contacts-inner {
     flex-direction: column;
     row-gap: 50px;
